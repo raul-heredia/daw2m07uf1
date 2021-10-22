@@ -10,7 +10,7 @@
 			#####################
 			# VARIABLES GLOBALS #
 			#####################
-			$nomDirectori="/var/www/html";
+			$nomDirectori="/";
 			#
 			############
 			# FUNCIONS #
