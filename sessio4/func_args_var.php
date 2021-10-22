@@ -11,7 +11,7 @@
 			$suma+=$dada;
 		}
 		$mitjana=$suma/(count($dades));
-		return number_format($mitja,2);
+		return number_format($mitjana,2);
 	}
 	echo "La mitjana és: ".mitjana(1,3,4,5,6,9)."</br>";
 	echo "La mitjana és: ".mitjana(1,4,5,6)."</br>";

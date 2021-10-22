@@ -1,0 +1,6 @@
+1-	COPIA TOTS ELS FITXERS html i php DINS DE /var/www/html
+2-	COM A root CREA UN DIRECTORI DE NOM fitxers DINS DE /var/www/html.
+3- 	COM A root FES QUE EL PROPIETARI I EL GRUP AMB PERMISOS ESPECIALS SIGUI www-data.
+	Executa: chown www-data:www-data /var/www/html/fitxers
+
+
